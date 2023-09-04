@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.793" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Evolucao da ficha tecnica do Designer" name="Logar no PLM" time="8.456">
+<failure type="org.openqa.selenium.NoSuchWindowException" message="no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DBS-NOTE-257', ip: '192.168.100.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\KAIQUE~1.REN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61876}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 185c4d3967993c781577256f7aa8470e
+*** Element info: {Using=xpath, value=//div[contains(@class, 'csi-homepage-welcome') and contains(@class, 'csi-flex-grow')]}">
+<![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DBS-NOTE-257', ip: '192.168.100.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\KAIQUE~1.REN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61876}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 185c4d3967993c781577256f7aa8470e
+*** Element info: {Using=xpath, value=//div[contains(@class, 'csi-homepage-welcome') and contains(@class, 'csi-flex-grow')]}
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:61)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy23.getText(Unknown Source)
+	at br.com.renner.web.interactions.DesignerInteractions.LogadoComSucesso(DesignerInteractions.java:53)
+	at br.com.renner.web.steps.cadastro.DesignerSteps.UsuarioLogadoComSucesso(DesignerSteps.java:29)
+	at ✽.Usuário é logado com sucesso(file:///C:/Users/kaique.renling/curso-framework-completo/src/test/resources/features/CamposDesigner/Designer.feature:8)
+]]>
+</failure>
+<system-out><![CDATA[
+Dado que acesso o PLM staging...............................................passed
+Quando visualizo a tela de login e preencho o username e password corretamente.passed
+Então Usuário é logado com sucesso..........................................failed
+Dado que estou na home page do PLM..........................................skipped
+Quando clico em style e escolho alguma season, divisão e grupo..............skipped
+Então posso preencher o campo Graphic Designer..............................skipped
+E Posso preencher o campo Buyer.............................................skipped
+E Posso preencher o campo DTP...............................................skipped
+E Posso preencher o campo Designer..........................................skipped
+Dado que estou no grupo e acesso a subclasse................................skipped
+Quando crio um novo item para o grupo.......................................skipped
+Então Clico na role dentro do style.........................................skipped
+E seleciono a role Designer KU..............................................skipped
+E confirmo a troca de role..................................................skipped
+Dado que estou na role Designer KU..........................................skipped
+Quando seleciono a view Designer............................................skipped
+Então Valido que os campos de pré cadastro a nível de item estão preenchidos de acordo com o grupo.skipped
+Dado que retorno para o grupo hierárquico...................................skipped
+Quando Troco a role para Admin..............................................skipped
+Então Posso editar os campos apagando os seus respectivos valores...........skipped
+Dado que estou no grupo e acesso novamente uma subclasse....................skipped
+Quando crio um novo item dentro desse grupo.................................skipped
+E Clico na role.............................................................skipped
+E seleciono a role Designer KU novamente....................................skipped
+E confirmo a troca de role novamente........................................skipped
+E valido que estou na role DesignerKU novamente.............................skipped
+Então valido que os campos de pré cadastro do style estão vazios............skipped
+Dado que estou no style e edito os campos de pré cadastro atribuindo novos valores.skipped
+Quando retorno ao grupo.....................................................skipped
+Então valido que os campos de pré cadastro preenchidos a nível de style não devem refletir para o grupo.skipped
+]]></system-out>
+</testcase>
+</testsuite>

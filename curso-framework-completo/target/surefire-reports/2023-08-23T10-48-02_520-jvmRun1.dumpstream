@@ -1,0 +1,1213 @@
+# Created at 2023-08-23T10:48:12.463
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2023-08-23T10:48:15.522
+Unexpected IOException: 5,1,Evolucao da ficha tecnica do Designer,Logar no PLM(Evolucao da ficha tecnica do Designer),null,null,null
+
+
+# Created at 2023-08-23T10:48:15.768
+Unexpected IOException with stream: 
+@Designer
+Cenário: Logar no PLM                                                                                     [90m# src/test/resources/features/CamposDesigner/Designer.feature:5[0m
+
+
+# Created at 2023-08-23T10:48:15.878
+Unexpected IOException with stream: TESTE 
+
+# Created at 2023-08-23T10:48:15.879
+Unexpected IOException with stream: Logar no PLM
+
+# Created at 2023-08-23T10:48:15.881
+Unexpected IOException with stream:  is started
+
+# Created at 2023-08-23T10:48:15.882
+Unexpected IOException with stream: 
+
+
+# Created at 2023-08-23T10:48:15.883
+Unexpected IOException with stream: Chrome
+
+
+# Created at 2023-08-23T10:48:15.918
+Unexpected IOException with stream: SLF4J: No SLF4J providers were found.
+
+
+# Created at 2023-08-23T10:48:15.919
+Unexpected IOException with stream: SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+
+# Created at 2023-08-23T10:48:15.921
+Unexpected IOException with stream: SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+
+
+# Created at 2023-08-23T10:48:17.478
+Unexpected IOException with stream: S
+
+# Created at 2023-08-23T10:48:17.479
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:17.480
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:17.482
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:17.483
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:17.484
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:17.485
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:17.486
+Unexpected IOException with stream: g
+
+# Created at 2023-08-23T10:48:17.487
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:17.488
+Unexpected IOException with stream: C
+
+# Created at 2023-08-23T10:48:17.489
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:17.495
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:17.497
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:17.499
+Unexpected IOException with stream: m
+
+# Created at 2023-08-23T10:48:17.500
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.501
+Unexpected IOException with stream: D
+
+# Created at 2023-08-23T10:48:17.502
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:17.503
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:17.503
+Unexpected IOException with stream: v
+
+# Created at 2023-08-23T10:48:17.504
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.505
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:17.506
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:17.507
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.509
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.514
+Unexpected IOException with stream: 6
+
+# Created at 2023-08-23T10:48:17.516
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:17.517
+Unexpected IOException with stream: 0
+
+# Created at 2023-08-23T10:48:17.518
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:17.522
+Unexpected IOException with stream: 5
+
+# Created at 2023-08-23T10:48:17.524
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:17.526
+Unexpected IOException with stream: 4
+
+# Created at 2023-08-23T10:48:17.534
+Unexpected IOException with stream: 5
+
+# Created at 2023-08-23T10:48:17.584
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:17.610
+Unexpected IOException with stream: 9
+
+# Created at 2023-08-23T10:48:17.635
+Unexpected IOException with stream: 6
+
+# Created at 2023-08-23T10:48:17.636
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:17.637
+Unexpected IOException with stream: (
+
+# Created at 2023-08-23T10:48:17.637
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.638
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:17.640
+Unexpected IOException with stream: 3
+
+# Created at 2023-08-23T10:48:17.644
+Unexpected IOException with stream: 9
+
+# Created at 2023-08-23T10:48:17.646
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.647
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:17.651
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.660
+Unexpected IOException with stream: 6
+
+# Created at 2023-08-23T10:48:17.661
+Unexpected IOException with stream: 6
+
+# Created at 2023-08-23T10:48:17.726
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:17.750
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:17.751
+Unexpected IOException with stream: 0
+
+# Created at 2023-08-23T10:48:17.753
+Unexpected IOException with stream: 0
+
+# Created at 2023-08-23T10:48:17.757
+Unexpected IOException with stream: 2
+
+# Created at 2023-08-23T10:48:17.758
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.766
+Unexpected IOException with stream: 5
+
+# Created at 2023-08-23T10:48:17.776
+Unexpected IOException with stream: 3
+
+# Created at 2023-08-23T10:48:17.814
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.819
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:17.827
+Unexpected IOException with stream: 7
+
+# Created at 2023-08-23T10:48:17.833
+Unexpected IOException with stream: 9
+
+# Created at 2023-08-23T10:48:17.859
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.864
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:17.883
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:17.884
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.886
+Unexpected IOException with stream: 6
+
+# Created at 2023-08-23T10:48:17.887
+Unexpected IOException with stream: 0
+
+# Created at 2023-08-23T10:48:17.889
+Unexpected IOException with stream: d
+
+# Created at 2023-08-23T10:48:17.895
+Unexpected IOException with stream: 9
+
+# Created at 2023-08-23T10:48:17.898
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.912
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:17.916
+Unexpected IOException with stream: 9
+
+# Created at 2023-08-23T10:48:17.927
+Unexpected IOException with stream: 9
+
+# Created at 2023-08-23T10:48:17.928
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:17.929
+Unexpected IOException with stream: 7
+
+# Created at 2023-08-23T10:48:17.930
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:17.932
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:17.935
+Unexpected IOException with stream: 0
+
+# Created at 2023-08-23T10:48:17.936
+Unexpected IOException with stream: 3
+
+# Created at 2023-08-23T10:48:17.938
+Unexpected IOException with stream: 7
+
+# Created at 2023-08-23T10:48:17.940
+Unexpected IOException with stream: -
+
+# Created at 2023-08-23T10:48:17.955
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:17.961
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.964
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:17.965
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:17.966
+Unexpected IOException with stream: /
+
+# Created at 2023-08-23T10:48:17.967
+Unexpected IOException with stream: b
+
+# Created at 2023-08-23T10:48:17.984
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:17.986
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:17.987
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:17.989
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:17.990
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:17.993
+Unexpected IOException with stream: -
+
+# Created at 2023-08-23T10:48:17.996
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:17.997
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:17.998
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:17.999
+Unexpected IOException with stream: d
+
+# Created at 2023-08-23T10:48:18.003
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.004
+Unexpected IOException with stream: /
+
+# Created at 2023-08-23T10:48:18.005
+Unexpected IOException with stream: 5
+
+# Created at 2023-08-23T10:48:18.006
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:18.006
+Unexpected IOException with stream: 4
+
+# Created at 2023-08-23T10:48:18.007
+Unexpected IOException with stream: 5
+
+# Created at 2023-08-23T10:48:18.009
+Unexpected IOException with stream: @
+
+# Created at 2023-08-23T10:48:18.014
+Unexpected IOException with stream: {
+
+# Created at 2023-08-23T10:48:18.015
+Unexpected IOException with stream: #
+
+# Created at 2023-08-23T10:48:18.016
+Unexpected IOException with stream: 1
+
+# Created at 2023-08-23T10:48:18.017
+Unexpected IOException with stream: 3
+
+# Created at 2023-08-23T10:48:18.018
+Unexpected IOException with stream: 8
+
+# Created at 2023-08-23T10:48:18.020
+Unexpected IOException with stream: 2
+
+# Created at 2023-08-23T10:48:18.024
+Unexpected IOException with stream: }
+
+# Created at 2023-08-23T10:48:18.033
+Unexpected IOException with stream: )
+
+# Created at 2023-08-23T10:48:18.037
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.040
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.046
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.048
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.054
+Unexpected IOException with stream: p
+
+# Created at 2023-08-23T10:48:18.056
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.056
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.067
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.069
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.070
+Unexpected IOException with stream: 4
+
+# Created at 2023-08-23T10:48:18.071
+Unexpected IOException with stream: 7
+
+# Created at 2023-08-23T10:48:18.074
+Unexpected IOException with stream: 4
+
+# Created at 2023-08-23T10:48:18.080
+Unexpected IOException with stream: 6
+
+# Created at 2023-08-23T10:48:18.084
+Unexpected IOException with stream: 5
+
+# Created at 2023-08-23T10:48:18.086
+Unexpected IOException with stream: 
+
+# Created at 2023-08-23T10:48:18.088
+Unexpected IOException with stream: 
+
+
+# Created at 2023-08-23T10:48:18.090
+Unexpected IOException with stream: O
+
+# Created at 2023-08-23T10:48:18.097
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.098
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.099
+Unexpected IOException with stream: y
+
+# Created at 2023-08-23T10:48:18.100
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.101
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.104
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.104
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.107
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.108
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.114
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.118
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.119
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.120
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.124
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.128
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.134
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.146
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.147
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.154
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.163
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.165
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.167
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.168
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.177
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.189
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.194
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.197
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.199
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.204
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.205
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.206
+Unexpected IOException with stream: w
+
+# Created at 2023-08-23T10:48:18.207
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.208
+Unexpected IOException with stream: d
+
+# Created at 2023-08-23T10:48:18.215
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:18.218
+Unexpected IOException with stream: 
+
+# Created at 2023-08-23T10:48:18.282
+Unexpected IOException with stream: 
+
+
+# Created at 2023-08-23T10:48:18.323
+Unexpected IOException with stream: P
+
+# Created at 2023-08-23T10:48:18.345
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.356
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.363
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.364
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.365
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.366
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.368
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.373
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.375
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.377
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.380
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:18.403
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.407
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.414
+Unexpected IOException with stream: p
+
+# Created at 2023-08-23T10:48:18.419
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.422
+Unexpected IOException with stream: :
+
+# Created at 2023-08-23T10:48:18.423
+Unexpected IOException with stream: /
+
+# Created at 2023-08-23T10:48:18.427
+Unexpected IOException with stream: /
+
+# Created at 2023-08-23T10:48:18.429
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.430
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:18.432
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.433
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.434
+Unexpected IOException with stream: m
+
+# Created at 2023-08-23T10:48:18.435
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.436
+Unexpected IOException with stream: d
+
+# Created at 2023-08-23T10:48:18.437
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.438
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.439
+Unexpected IOException with stream: v
+
+# Created at 2023-08-23T10:48:18.440
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.440
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.443
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:18.446
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.447
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:18.449
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.452
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.454
+Unexpected IOException with stream: m
+
+# Created at 2023-08-23T10:48:18.455
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.456
+Unexpected IOException with stream: u
+
+# Created at 2023-08-23T10:48:18.457
+Unexpected IOException with stream: m
+
+# Created at 2023-08-23T10:48:18.459
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:18.462
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.464
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.465
+Unexpected IOException with stream: g
+
+# Created at 2023-08-23T10:48:18.466
+Unexpected IOException with stream: /
+
+# Created at 2023-08-23T10:48:18.468
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.469
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.469
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.470
+Unexpected IOException with stream: u
+
+# Created at 2023-08-23T10:48:18.473
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.478
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.479
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.483
+Unexpected IOException with stream: y
+
+# Created at 2023-08-23T10:48:18.484
+Unexpected IOException with stream: -
+
+# Created at 2023-08-23T10:48:18.487
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.490
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.496
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.497
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.500
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.504
+Unexpected IOException with stream: d
+
+# Created at 2023-08-23T10:48:18.506
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.514
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.515
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.516
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.529
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.532
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.533
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.534
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.535
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.536
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:18.537
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.538
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.538
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.545
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.556
+Unexpected IOException with stream: u
+
+# Created at 2023-08-23T10:48:18.562
+Unexpected IOException with stream: g
+
+# Created at 2023-08-23T10:48:18.563
+Unexpected IOException with stream: g
+
+# Created at 2023-08-23T10:48:18.564
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.565
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.567
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.568
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.569
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.578
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.580
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.584
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.585
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.586
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.587
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.588
+Unexpected IOException with stream: k
+
+# Created at 2023-08-23T10:48:18.589
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.590
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.590
+Unexpected IOException with stream: p
+
+# Created at 2023-08-23T10:48:18.592
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.595
+Unexpected IOException with stream: n
+
+# Created at 2023-08-23T10:48:18.595
+Unexpected IOException with stream: g
+
+# Created at 2023-08-23T10:48:18.596
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.597
+Unexpected IOException with stream: C
+
+# Created at 2023-08-23T10:48:18.597
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:18.598
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.598
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.599
+Unexpected IOException with stream: m
+
+# Created at 2023-08-23T10:48:18.600
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.600
+Unexpected IOException with stream: D
+
+# Created at 2023-08-23T10:48:18.601
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.603
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.604
+Unexpected IOException with stream: v
+
+# Created at 2023-08-23T10:48:18.605
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.614
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.617
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.618
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.619
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.620
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:18.620
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.621
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:18.623
+Unexpected IOException with stream: 
+
+# Created at 2023-08-23T10:48:18.624
+Unexpected IOException with stream: 
+
+
+# Created at 2023-08-23T10:48:18.625
+Unexpected IOException with stream: C
+
+# Created at 2023-08-23T10:48:18.627
+Unexpected IOException with stream: h
+
+# Created at 2023-08-23T10:48:18.628
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.629
+Unexpected IOException with stream: o
+
+# Created at 2023-08-23T10:48:18.630
+Unexpected IOException with stream: m
+
+# Created at 2023-08-23T10:48:18.631
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.632
+Unexpected IOException with stream: D
+
+# Created at 2023-08-23T10:48:18.633
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.633
+Unexpected IOException with stream: i
+
+# Created at 2023-08-23T10:48:18.634
+Unexpected IOException with stream: v
+
+# Created at 2023-08-23T10:48:18.634
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.635
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.635
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.636
+Unexpected IOException with stream: w
+
+# Created at 2023-08-23T10:48:18.636
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.637
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.638
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.640
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.641
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.642
+Unexpected IOException with stream: a
+
+# Created at 2023-08-23T10:48:18.644
+Unexpected IOException with stream: r
+
+# Created at 2023-08-23T10:48:18.645
+Unexpected IOException with stream: t
+
+# Created at 2023-08-23T10:48:18.645
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.646
+Unexpected IOException with stream: d
+
+# Created at 2023-08-23T10:48:18.647
+Unexpected IOException with stream:  
+
+# Created at 2023-08-23T10:48:18.647
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.648
+Unexpected IOException with stream: u
+
+# Created at 2023-08-23T10:48:18.649
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.649
+Unexpected IOException with stream: c
+
+# Created at 2023-08-23T10:48:18.651
+Unexpected IOException with stream: e
+
+# Created at 2023-08-23T10:48:18.652
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.654
+Unexpected IOException with stream: s
+
+# Created at 2023-08-23T10:48:18.655
+Unexpected IOException with stream: f
+
+# Created at 2023-08-23T10:48:18.656
+Unexpected IOException with stream: u
+
+# Created at 2023-08-23T10:48:18.656
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.657
+Unexpected IOException with stream: l
+
+# Created at 2023-08-23T10:48:18.658
+Unexpected IOException with stream: y
+
+# Created at 2023-08-23T10:48:18.661
+Unexpected IOException with stream: .
+
+# Created at 2023-08-23T10:48:18.662
+Unexpected IOException with stream: 
+
+# Created at 2023-08-23T10:48:18.663
+Unexpected IOException with stream: 
+
+
+# Created at 2023-08-23T10:48:19.859
+Unexpected IOException with stream: ago 23, 2023 10:48:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2023-08-23T10:48:19.960
+Unexpected IOException with stream: Automation framework created by Lojas Renner
+
+
+# Created at 2023-08-23T10:48:20.118
+Unexpected IOException with stream:       [31morg.openqa.selenium.InvalidArgumentException: invalid argument
+  (Session info: chrome=116.0.5845.111)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DBS-NOTE-257', ip: '192.168.0.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.111, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\KAIQUE~1.REN\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52872}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c9d89d7a6a15d515f16c87803b460fbf
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at br.com.renner.web.steps.hooks.WebSetup.initiate(WebSetup.java:86)
+[0m
+
+
+# Created at 2023-08-23T10:48:20.148
+Unexpected IOException with stream:   [36mDado [0m[36mque acesso o PLM staging[0m                                                                           [90m# br.com.renner.web.steps.cadastro.DesignerSteps.LogoNoPLM()[0m
+
+
+# Created at 2023-08-23T10:48:20.150
+Unexpected IOException with stream:   [36mQuando [0m[36mvisualizo a tela de login e preencho o username e password corretamente[0m                          [90m# br.com.renner.web.steps.cadastro.DesignerSteps.PreenchoCamposDoLogin()[0m
+
+
+# Created at 2023-08-23T10:48:20.153
+Unexpected IOException with stream:   [36mEntão [0m[36mUsuário é logado com sucesso[0m                                                                      [90m# br.com.renner.web.steps.cadastro.DesignerSteps.UsuarioLogadoComSucesso()[0m
+
+
+# Created at 2023-08-23T10:48:20.186
+Unexpected IOException with stream:   [36mDado [0m[36mque estou na home page do PLM[0m                                                                      [90m# br.com.renner.web.steps.cadastro.DesignerSteps.HomePageDoPLM()[0m
+
+
+# Created at 2023-08-23T10:48:20.196
+Unexpected IOException with stream:   [36mQuando [0m[36mclico em style e escolho alguma season, divisão e grupo[0m                                          [90m# br.com.renner.web.steps.cadastro.DesignerSteps.PreencheAHierarquia()[0m
+
+
+# Created at 2023-08-23T10:48:20.198
+Unexpected IOException with stream:   [36mEntão [0m[36mposso preencher o campo Graphic Designer[0m                                                          [90m# br.com.renner.web.steps.cadastro.DesignerSteps.PreencherOCampoGraphicDesigner()[0m
+
+
+# Created at 2023-08-23T10:48:20.205
+Unexpected IOException with stream:   [36mE [0m[36mPosso preencher o campo Buyer[0m                                                                         [90m# br.com.renner.web.steps.cadastro.DesignerSteps.PreencherOCampoBuyer()[0m
+
+
+# Created at 2023-08-23T10:48:20.220
+Unexpected IOException with stream:   [36mE [0m[36mPosso preencher o campo DTP[0m                                                                           [90m# br.com.renner.web.steps.cadastro.DesignerSteps.PreencherOCampoDTP()[0m
+
+
+# Created at 2023-08-23T10:48:20.230
+Unexpected IOException with stream:   [36mE [0m[36mPosso preencher o campo Designer[0m                                                                      [90m# br.com.renner.web.steps.cadastro.DesignerSteps.PreencherOCampoDesigner()[0m
+
+
+# Created at 2023-08-23T10:48:20.234
+Unexpected IOException with stream:   [36mDado [0m[36mque estou no grupo e acesso a subclasse[0m                                                            [90m# br.com.renner.web.steps.cadastro.DesignerSteps.AcessoUmaSubclasse()[0m
+
+
+# Created at 2023-08-23T10:48:20.237
+Unexpected IOException with stream:   [36mQuando [0m[36mcrio um novo item para o grupo[0m                                                                   [90m# br.com.renner.web.steps.cadastro.DesignerSteps.NewStyle()[0m
+
+
+# Created at 2023-08-23T10:48:20.238
+Unexpected IOException with stream:   [36mEntão [0m[36mClico na role dentro do style[0m                                                                     [90m# br.com.renner.web.steps.cadastro.DesignerSteps.Roles2()[0m
+
+
+# Created at 2023-08-23T10:48:20.243
+Unexpected IOException with stream:   [36mE [0m[36mseleciono a role Designer KU[0m                                                                          [90m# br.com.renner.web.steps.cadastro.DesignerSteps.RoleDesignerKU()[0m
+
+
+# Created at 2023-08-23T10:48:20.245
+Unexpected IOException with stream:   [36mE [0m[36mconfirmo a troca de role[0m                                                                              [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ConfirmarTrocaRole()[0m
+
+
+# Created at 2023-08-23T10:48:20.247
+Unexpected IOException with stream:   [36mDado [0m[36mque estou na role Designer KU[0m                                                                      [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ValidarRoleDesignerKU()[0m
+
+
+# Created at 2023-08-23T10:48:20.252
+Unexpected IOException with stream:   [36mQuando [0m[36mseleciono a view Designer[0m                                                                        [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ClicoEmViews()[0m
+
+
+# Created at 2023-08-23T10:48:20.254
+Unexpected IOException with stream:   [36mEntão [0m[36mValido que os campos de pré cadastro a nível de item estão preenchidos de acordo com o grupo[0m      [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ValidoOsCamposDesigner()[0m
+
+
+# Created at 2023-08-23T10:48:20.256
+Unexpected IOException with stream:   [36mDado [0m[36mque retorno para o grupo hierárquico[0m                                                               [90m# br.com.renner.web.steps.cadastro.DesignerSteps.RetornarParaOGrupo()[0m
+
+
+# Created at 2023-08-23T10:48:20.262
+Unexpected IOException with stream:   [36mQuando [0m[36mTroco a role para Admin[0m                                                                          [90m# br.com.renner.web.steps.cadastro.DesignerSteps.TrocarRoleParaAdmin()[0m
+
+
+# Created at 2023-08-23T10:48:20.264
+Unexpected IOException with stream:   [36mEntão [0m[36mPosso editar os campos apagando os seus respectivos valores[0m                                       [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ApagarOsCamposAnivelDeGrupo()[0m
+
+
+# Created at 2023-08-23T10:48:20.266
+Unexpected IOException with stream:   [36mDado [0m[36mque estou no grupo e acesso novamente uma subclasse[0m                                                [90m# br.com.renner.web.steps.cadastro.DesignerSteps.AcessoSubclasse2()[0m
+
+
+# Created at 2023-08-23T10:48:20.271
+Unexpected IOException with stream:   [36mQuando [0m[36mcrio um novo item dentro desse grupo[0m                                                             [90m# br.com.renner.web.steps.cadastro.DesignerSteps.NewStyle2()[0m
+
+
+# Created at 2023-08-23T10:48:20.278
+Unexpected IOException with stream:   [36mE [0m[36mClico na role[0m                                                                                         [90m# br.com.renner.web.steps.cadastro.DesignerSteps.Roles()[0m
+
+
+# Created at 2023-08-23T10:48:20.279
+Unexpected IOException with stream:   [36mE [0m[36mseleciono a role Designer KU novamente[0m                                                                [90m# br.com.renner.web.steps.cadastro.DesignerSteps.RoleDesignerKU2()[0m
+
+
+# Created at 2023-08-23T10:48:20.283
+Unexpected IOException with stream:   [36mE [0m[36mconfirmo a troca de role novamente[0m                                                                    [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ConfirmarTrocaRole2()[0m
+
+
+# Created at 2023-08-23T10:48:20.285
+Unexpected IOException with stream:   [36mE [0m[36mvalido que estou na role DesignerKU novamente[0m                                                         [90m# br.com.renner.web.steps.cadastro.DesignerSteps.ValidarQueEstouNaRoleDesignerKU()[0m
+
+
+# Created at 2023-08-23T10:48:20.288
+Unexpected IOException with stream:   [36mEntão [0m[36mvalido que os campos de pré cadastro do style estão vazios[0m                                        [90m# br.com.renner.web.steps.cadastro.DesignerSteps.validoQueOsCamposDePréCadastroDoStyleEstãoVazios()[0m
+
+
+# Created at 2023-08-23T10:48:20.296
+Unexpected IOException with stream:   [36mDado [0m[36mque estou no style e edito os campos de pré cadastro atribuindo novos valores[0m                      [90m# br.com.renner.web.steps.cadastro.DesignerSteps.queEstouNoStyleEEditoOsCamposDePréCadastroAtribuindoNovosValores()[0m
+
+
+# Created at 2023-08-23T10:48:20.335
+Unexpected IOException with stream:   [36mQuando [0m[36mretorno ao grupo[0m                                                                                 [90m# br.com.renner.web.steps.cadastro.DesignerSteps.RetornoAoGrupo()[0m
+
+
+# Created at 2023-08-23T10:48:20.337
+Unexpected IOException with stream:   [36mEntão [0m[36mvalido que os campos de pré cadastro preenchidos a nível de style não devem refletir para o grupo[0m [90m# br.com.renner.web.steps.cadastro.DesignerSteps.validoQueOsCamposDePréCadastroPreenchidosANívelDeStyleNãoDevemRefletirParaOGrupo()[0m
+
+
+# Created at 2023-08-23T10:48:20.339
+Unexpected IOException with stream:   [36mDado [0m[36mque estou em um grupo e altero minha role para admin[0m                                               [90m# br.com.renner.web.steps.cadastro.DesignerSteps.queEstouEmUmGrupoEAlteroMinhaRoleParaAdmin()[0m
+
+
+# Created at 2023-08-23T10:48:20.343
+Unexpected IOException with stream:   [36mQuando [0m[36mconfirmo a troca de role para Admin[0m                                                              [90m# br.com.renner.web.steps.cadastro.DesignerSteps.confirmoATrocaDeRoleParaAdmin()[0m
+
+
+# Created at 2023-08-23T10:48:20.345
+Unexpected IOException with stream:   [36mEntão [0m[36mposso preencher os campos de pré cadastro[0m                                                         [90m# br.com.renner.web.steps.cadastro.DesignerSteps.possoPreencherOsCamposDePréCadastro()[0m
+
+
+# Created at 2023-08-23T10:48:20.349
+Unexpected IOException with stream: TESTE 
+
+# Created at 2023-08-23T10:48:20.350
+Unexpected IOException with stream: Logar no PLM
+
+# Created at 2023-08-23T10:48:20.351
+Unexpected IOException with stream:  is 
+
+# Created at 2023-08-23T10:48:20.353
+Unexpected IOException with stream: FAILED
+
+# Created at 2023-08-23T10:48:20.355
+Unexpected IOException with stream: 
+
+
+# Created at 2023-08-23T10:48:20.373
+Unexpected IOException: 7,1,Evolucao da ficha tecnica do Designer,Logar no PLM(Evolucao da ficha tecnica do Designer),null,invalid argument\000A  (Session info: chrome=116.0.5845.111)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DBS-NOTE-257'\002C ip: '192.168.0.7'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.19'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 116.0.5845.111\002C chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880...\002C userDataDir: C:\005CUsers\005CKAIQUE~1.REN\005CAppDa...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52872}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c9d89d7a6a15d515f16c87803b460fbf,null,invalid argument\000A  (Session info: chrome=116.0.5845.111)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DBS-NOTE-257'\002C ip: '192.168.0.7'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.19'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 116.0.5845.111\002C chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880...\002C userDataDir: C:\005CUsers\005CKAIQUE~1.REN\005CAppDa...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52872}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c9d89d7a6a15d515f16c87803b460fbf,invalid argument\000A  (Session info: chrome=116.0.5845.111)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DBS-NOTE-257'\002C ip: '192.168.0.7'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.19'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 116.0.5845.111\002C chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880...\002C userDataDir: C:\005CUsers\005CKAIQUE~1.REN\005CAppDa...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52872}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c9d89d7a6a15d515f16c87803b460fbf,org.openqa.selenium.InvalidArgumentException: \000Ainvalid argument\000A  (Session info: chrome=116.0.5845.111)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DBS-NOTE-257'\002C ip: '192.168.0.7'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.19'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 116.0.5845.111\002C chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880...\002C userDataDir: C:\005CUsers\005CKAIQUE~1.REN\005CAppDa...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52872}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c9d89d7a6a15d515f16c87803b460fbf\000A
+
+
+# Created at 2023-08-23T10:48:20.777
+Unexpected IOException with stream: [32m[1m┌───────────────────────────────────────────────────────────────────────────────────┐[0m
+[32m[1m│[0m Share your Cucumber Report with your team at [36m[1m[4mhttps://reports.cucumber.io[0m          [32m[1m│[0m
+[32m[1m│[0m Activate publishing with one of the following:                                    [32m[1m│[0m
+[32m[1m│[0m                                                                                   [32m[1m│[0m
+[32m[1m│[0m src/test/resources/cucumber.properties:          [36mcucumber.publish.enabled[0m=[36mtrue[0m    [32m[1m│[0m
+[32m[1m│[0m src/test/resources/junit-platform.properties:    [36mcucumber.publish.enabled[0m=[36mtrue[0m    [32m[1m│[0m
+[32m[1m│[0m Environment variable:                            [36mCUCUMBER_PUBLISH_ENABLED[0m=[36mtrue[0m    [32m[1m│[0m
+[32m[1m│[0m JUnit:                                           [36m@CucumberOptions[0m(publish = [36mtrue[0m) [32m[1m│[0m
+[32m[1m│[0m                                                                                   [32m[1m│[0m
+[32m[1m│[0m More information at [36mhttps://cucumber.io/docs/cucumber/environment-variables/[0m      [32m[1m│[0m
+[32m[1m│[0m                                                                                   [32m[1m│[0m
+[32m[1m│[0m Disable this message with one of the following:                                   [32m[1m│[0m
+[32m[1m│[0m                                                                                   [32m[1m│[0m
+[32m[1m│[0m src/test/resources/cucumber.properties:          [36mcucumber.publish.quiet[0m=[36mtrue[0m      [32m[1m│[0m
+[32m[1m│[0m src/test/resources/junit-platform.properties:    [36mcucumber.publish.quiet[0m=[36mtrue[0m      [32m[1m│[0m
+[32m[1m└───────────────────────────────────────────────────────────────────────────────────┘[0m
+
+
+# Created at 2023-08-23T10:48:20.779
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,br.com.renner.web.runner.WebRunnerTest,null,null,null
+
+

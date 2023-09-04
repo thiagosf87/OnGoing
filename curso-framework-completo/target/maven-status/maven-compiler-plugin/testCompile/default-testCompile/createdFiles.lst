@@ -1,0 +1,14 @@
+br\com\renner\toolbox\GlobalTools.class
+br\com\renner\web\pages\DesignerPages.class
+br\com\renner\web\steps\login\LoginSteps.class
+br\com\renner\toolbox\SetupTestRunProperties.class
+br\com\renner\web\interactions\DesignerInteractions.class
+br\com\renner\web\pages\CadatroPages.class
+br\com\renner\web\interactions\CadastroInteractions.class
+br\com\renner\web\steps\cadastro\DesignerSteps.class
+br\com\renner\toolbox\ToolsPage.class
+br\com\renner\web\interactions\LoginInteractions.class
+br\com\renner\web\steps\cadastro\CadastroSteps.class
+br\com\renner\web\steps\hooks\WebSetup.class
+br\com\renner\web\runner\WebRunnerTest.class
+br\com\renner\web\pages\LoginPages.class
